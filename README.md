@@ -53,6 +53,6 @@ Upcoming Features
 Information
 ------------------
 
-Author: Krish Shah
+Author: UTTAM BODARA
 
 License: [MIT License](https://opensource.org/licenses/MIT)
