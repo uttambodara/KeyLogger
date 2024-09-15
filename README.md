@@ -1,19 +1,58 @@
 # Keylogger
+It is simple Keylogger program which will take input of the keystrokes and store it in the file.
 
-In this implementation of the keylogger, the main idea is to create a fake browser page. I have implemented it for *Microsoft Edge*, but you can change it from the source code.
+Pre-requisite
+------------------
+You must have following version of python installed in your system
+1. python 3.x
+2. pip3
 
-## Installation
+Installation
+------------------
+You have to perform the following steps
+```
+git clone https://github.com/SHAHKRISHS/Keylogger.git
+```
 
-You can easily install the keylogger by either cloning the repository
+```
+cd Keylogger 
+```
 
-    git clone https://github.com/camarman/keylogger.git
+```
+pip3 install -r requirements.txt 
+```
 
-or via downloading as ZIP. Later on, you can simply run
+```
+python3 main.py
+```
 
-    python3 -m pip install pynput
 
-to install the requirements.
+Screenshots
+------------------
 
-## Disclaimer
+1. **Requirements.**
 
-This tool is for educational purposes only. The usage of a keylogger for attacking targets without prior mutual consent is illegal. I accept no liability and responsibility for any misuse or damage caused by this program.
+![This is a requirement image](https://github.com/SHAHKRISHS/Keylogger/blob/main/Screenshots/Requirements.png)
+
+2. **Running a python file.**
+
+![This is a python file image](https://github.com/SHAHKRISHS/Keylogger/blob/main/Screenshots/Python%20main%20File%20running.png)
+
+3. If I search for **netflix.com** then the result will be as shown below.
+
+4. **output stored in a file**
+
+![This is a output file image](https://github.com/SHAHKRISHS/Keylogger/blob/main/Screenshots/Output%20of%20the%20file.png)
+
+Upcoming Features
+------------------
+
+1. Give the email access so that the attacker can get the strokes through email.
+2. Give the functionality of time so that the attacker can get the strokes on the given period of time.
+
+Information
+------------------
+
+Author: Krish Shah
+
+License: [MIT License](https://opensource.org/licenses/MIT)
