@@ -53,6 +53,6 @@ Upcoming Features
 Information
 ------------------
 
-Author: UTTAM BODARA
+Author: [UTTAM BODARA](https://buymeacoffee.com/uttambodara)
 
 License: [MIT License](https://opensource.org/licenses/MIT)
